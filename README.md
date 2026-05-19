@@ -1,4 +1,4 @@
-# ECL
+# Expectation Consistency Loss (ECL): Rethink Confidence Calibration under Covariate Shift
 
 ## Usage
 
